@@ -1,7 +1,10 @@
 Rencana Belajar Ivan
 
-- HTML
 - CSS
 - Javascript
   * ES6
   * Framework Javascript
+    ^ Angular
+    ^ React
+- PHP Frameworks
+  ^ Laravel
