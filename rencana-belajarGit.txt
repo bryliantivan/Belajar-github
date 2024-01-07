@@ -5,3 +5,4 @@ Rencana Belajar Ivan
 - Javascript
   * ES6
   * Framework Javascript
+     ^ Vue
