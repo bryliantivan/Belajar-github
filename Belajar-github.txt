@@ -3,3 +3,4 @@ Belajar githubb
 - Belajar dengan sungguh sungguh
 - Membuat project bagus
 - Upload beberapa project ke github untuk menambah portofolio
+- Tes
