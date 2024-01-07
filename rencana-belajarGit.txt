@@ -3,3 +3,5 @@ Rencana Belajar Ivan
 - HTML
 - CSS
 - Javascript
+  * ES6
+  * Framework Javascript
